@@ -24,7 +24,7 @@ gem install evil-winrm
 software_install() {
 #docker pull rustscan/rustscan:2.0.0 &> /dev/null
 #alias rustscan='docker run -it --rm --name rustscan rustscan/rustscan:2.0.0'
-mv audit_tools/apps/* /usr/bin/ &> /dev/null
+mv ctf_tools/apps/* /usr/bin/ &> /dev/null
 cd /usr/bin
 wget https://github.com/OJ/gobuster/releases/download/v3.1.0/gobuster-linux-amd64.7z &> /dev/null
 wget https://go.dev/dl/go1.19.4.linux-amd64.tar.gz &> /dev/null
@@ -49,13 +49,13 @@ echo "Gobuster" $(gobuster version)
 
 # Remove installed software packages and folder(s).
 clean_up() {
-	# mv audit_tools/web_shells/ audit_tools/win audit_tools/lin/ audit_tools/wordlists/ .
+	# mv ctf_tools/web_shells/ ctf_tools/win ctf_tools/lin/ ctf_tools/wordlists/ .
 	rm -fr /usr/bin/gobuster-linux-amd64.7z /usr/bin/gobuster-linux-amd64/
 	rm -f /usr/bin/go1.19.linux-amd64.tar.gz
-	mv audit_tools/* .
+	mv ctf_tools/* .
 	mkdir lin ; mv lin.tar.bz2 lin/
 	mkdir win ; mv win.tar.bz2 win/
-	rm -rf audit_tools/
+	rm -rf ctf_tools/
 }
 
 proxy_func() {
