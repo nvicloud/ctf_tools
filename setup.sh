@@ -53,9 +53,9 @@ clean_up() {
 	rm -fr /usr/bin/gobuster-linux-amd64.7z /usr/bin/gobuster-linux-amd64/
 	rm -f /usr/bin/go1.19.linux-amd64.tar.gz
 	mv ctf_tools/* .
-	mkdir lin ; mv lin.tar.bz2 lin/
-	mkdir win ; mv win.tar.bz2 win/
-	rm -rf ctf_tools/
+	#mkdir lin ; mv lin.tar.bz2 lin/
+	#mkdir win ; mv win.tar.bz2 win/
+	rm -rf ctf_tools/ apps/
 }
 
 proxy_func() {
